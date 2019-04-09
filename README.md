@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Gesmoltenbrein
+
+Deze site is nog sterk in ontwikkeling.  
+In de orde van grootte van "eerste celdeling"; we hebben nog een hele weg te gaan tot dit het daglicht ziet. 
+
+Tot die tijd ben je van harte welkom om meer over ons te lezen op http://www.educationwarehouse.nl 
+
+--- 
 
 You can use the [editor on GitHub](https://github.com/gesmoltenbrein/gesmoltenbrein/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
